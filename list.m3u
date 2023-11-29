@@ -16,7 +16,7 @@ https://www.youtube.com/user/TVPublicaArgentina/live
 #EXTINF:-1 tvg-name="DeporTV" tvg-logo="https://i.imgur.com/iyYLNRt.png" tvg-id="DeporTV.ar" group-title="Argentina",DeporTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 26" tvg-logo="https://i.imgur.com/xDjOUuz.png" tvg-id="Canal26.ar" group-title="Argentina",Canal 26
-https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+https://www.youtube.com/watch?v=TFUxzueYtyc
 #EXTINF:-1 tvg-name="Crónica TV Ⓨ" tvg-logo="https://i.imgur.com/k2Ku8Ib.png" tvg-id="CronicaTV.ar" group-title="Argentina",Crónica TV Ⓨ
 https://www.youtube.com/c/cronicatv/live
 #EXTINF:-1 tvg-name="C5N Ⓨ" tvg-logo="https://i.imgur.com/E3pamA5.png" tvg-id="C5N.ar" group-title="Argentina",C5N Ⓨ
@@ -126,3 +126,7 @@ http://168.232.168.242:8000/play/a01j/index.m3u8
 http://iptvmedia.live:8080/FM10008/ee54fb4b/5298
 #EXTINF:0 tvg-id="Nickelodeon.ar" group-title="INFANTIL",Nickelodeon
 http://iptvmedia.live:8080/FM10008/ee54fb4b/274960
+#EXTINF:0 tvg-id="Peppa Pig " group-title="INFANTIL",Peppa Pig 
+https://www.youtube.com/watch?v=SVopqoPK8A4
+#EXTINF:0 tvg-id="Baires TV " group-title="cine",Baires TV
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
