@@ -102,8 +102,77 @@ https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Paw Patrol Ⓨ Ⓖ" tvg-logo="https://statics.neura.media/masopinion/img/global/neura_rrss.png" tvg-id="Neura" group-title="Argentina",Paw Patrol Ⓨ Ⓖ
 https://www.youtube.com/watch?v=_KkZTDkZmow
 
-tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png"
 
+
+
+
+#EXTINF:0 tvg-id="DisneyJr.ar" group-title="INFANTIL",Disney Junior
+http://iptvmedia.live:8080/FM10008/ee54fb4b/274571
+#EXTINF:0 tvg-id="CartoonNetwork.ar" group-title="INFANTIL",Cartoon Network
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_SAGEMCOM/CartoonNetwork.m3u8
+#EXTINF:0 tvg-id="DisneyChannel.ar" group-title="INFANTIL",Disney Channel
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8
+#EXTINF:0 tvg-id="Cartoonito.uk" group-title="INFANTIL",Cartoonito
+http://168.232.168.242:8000/play/a01j/index.m3u8
+#EXTINF:0 tvg-id="DisneyXD.ar" group-title="INFANTIL",Disney XD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/5298
+#EXTINF:0 tvg-id="Nickelodeon.ar" group-title="INFANTIL",Nickelodeon
+http://iptvmedia.live:8080/FM10008/ee54fb4b/274960
+#EXTINF:0 tvg-id="Peppa Pig " group-title="INFANTIL",Peppa Pig 
+https://www.youtube.com/watch?v=SVopqoPK8A4
+#EXTINF:-1 group-title="Bics Extra MX", DISNEY CHANNEL
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/688
+#EXTINF:-1 group-title="Bics Extra MX", DISNEY JR
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/689
+#EXTINF:-1 group-title="Bics Extra MX", NICK JR
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/717
+#EXTINF:-1 group-title="Bics Extra MX", NICK MUSIC
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/718
+#EXTINF:-1 group-title="Bics Extra MX", TEEN NICK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725
+#EXTINF:-1 group-title="Bics Extra MX", BABY TV
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/485
+#EXTINF:-1 group-title="Bics Extra MX", FORO TV
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/699
+
+
+
+
+#EXTINF:0 tvg-id="Baires TV " group-title="cine",Baires TV
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+
+
+
+
+#EXTINF:-1  group-title="Bics Extra", ESPN Deportes
+http://sysadminhost.net:8080/F17425/8ffdb770/6446
+
+#EXTINF:-1  group-title="Bics Extra", Claro Sports HD 
+https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
+
+#EXTINF:-1  group-title="Bics Extra", Fox Deportes 
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57388
+
+#EXTINF:-1  group-title="Bics Extra", FOX Sports 
+http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/43739
+#EXTINF:-1  group-title="Bics Extra", FOX Sports 2
+http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/43736
+#EXTINF:-1  group-title="Bics Extra", FOX Sports 3
+http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/43738
+*****#EXTINF:-1  group-title="Bics Extra", ESPN 
+*****http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12278
+#EXTINF:-1  group-title="Bics Extra", ESPN 2
+http://sysadminhost.net:8080/F17425/8ffdb770/3031
+#EXTINF:-1  group-title="Bics Extra", ESPN 3
+http://sysadminhost.net:8080/F17425/8ffdb770/3032
+#EXTINF:-1  group-title="Bics Extra", TUDN MX
+http://pinkpanther.uk:8080/7VRGtRqyXhwp/BjGGpGxeNRLB/43732
+#EXTINF:-1  group-title="Bics Extra", ITV Deportes 
+https://i.mjh.nz/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
+#EXTINF:-1  group-title="Bics Extra", Golazo Network 
+https://i.mjh.nz/PlutoTV/63a0e33a45264d000850ed7e-alt.m3u8
+#EXTINF:0 tvg-id="TyCSports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png" group-title="AMBA",TyC SPORT
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/662
 
 #EXTINF:0 tvg-id="TyCSports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png" group-title="AMBA",TyC SPORT
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
@@ -131,19 +200,4 @@ https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/in
 https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/index.m3u8
 
 
-#EXTINF:0 tvg-id="DisneyJr.ar" group-title="INFANTIL",Disney Junior
-http://iptvmedia.live:8080/FM10008/ee54fb4b/274571
-#EXTINF:0 tvg-id="CartoonNetwork.ar" group-title="INFANTIL",Cartoon Network
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_SAGEMCOM/CartoonNetwork.m3u8
-#EXTINF:0 tvg-id="DisneyChannel.ar" group-title="INFANTIL",Disney Channel
-http://edge-live14-hr.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8
-#EXTINF:0 tvg-id="Cartoonito.uk" group-title="INFANTIL",Cartoonito
-http://168.232.168.242:8000/play/a01j/index.m3u8
-#EXTINF:0 tvg-id="DisneyXD.ar" group-title="INFANTIL",Disney XD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/5298
-#EXTINF:0 tvg-id="Nickelodeon.ar" group-title="INFANTIL",Nickelodeon
-http://iptvmedia.live:8080/FM10008/ee54fb4b/274960
-#EXTINF:0 tvg-id="Peppa Pig " group-title="INFANTIL",Peppa Pig 
-https://www.youtube.com/watch?v=SVopqoPK8A4
-#EXTINF:0 tvg-id="Baires TV " group-title="cine",Baires TV
-https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+
